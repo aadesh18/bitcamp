@@ -1,5 +1,5 @@
 # bitcamp project 
-# Team - Aryan Agrawal (aryan5276), Aadesh Kheria, Rishabh Chheda, Agastya Mukherjee
+# Team - Aryan Agrawal (aryan5276), Aadesh Kheria (aadesh18), Rishabh Chheda (rishabhchheda01), Agastya Mukherjee
 
 A new Flutter project.
 
