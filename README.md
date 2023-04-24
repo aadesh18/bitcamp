@@ -1,4 +1,4 @@
-# bitcamp project 
+# Shared Spaces - Project for Bitcamp 2023
 # Team - Aryan Agrawal (aryan5276), Aadesh Kheria (aadesh18), Rishabh Chheda (rishabhchheda01), Agastya Mukherjee
 
 A new Flutter project.
