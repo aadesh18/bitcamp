@@ -1,4 +1,5 @@
 import 'package:bitcamp/data/property.dart';
+import 'package:bitcamp/data/recProperty.dart';
 import 'package:bitcamp/pages/main_app_pages/card_page.dart';
 import 'package:bitcamp/theme/constants.dart';
 import 'package:flutter/cupertino.dart';

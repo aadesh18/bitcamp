@@ -1,8 +1,10 @@
 import 'dart:ui';
 
 import 'package:bitcamp/animated_btn.dart';
+import 'package:bitcamp/data/pot.dart';
 import 'package:bitcamp/data/property.dart';
-import 'package:bitcamp/data/data.dart';
+import 'package:bitcamp/data/recProperty.dart';
+import 'package:bitcamp/data/user.dart';
 import 'package:bitcamp/pages/introduction_pages/sign_in_form.dart';
 import 'package:bitcamp/theme/asset_location.dart';
 import 'package:bitcamp/theme/constants.dart';
@@ -86,16 +88,16 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
                     press: () async {
                       try {
                         final responsePot1 = await http.get(
-                          Uri.parse('http://192.168.38.240:5000/pot1/'),
+                          Uri.parse('http://192.168.137.1:5000/pot1/'),
                         );
                         final responsePot2 = await http.get(
-                          Uri.parse('http://192.168.38.240:5000/pot2/'),
+                          Uri.parse('http://192.168.137.1:5000/pot2/'),
                         );
                         final responseGroup1 = await http.get(
-                          Uri.parse('http://192.168.38.240:5000/group1_rec/'),
+                          Uri.parse('http://192.168.137.1:5000/group1_rec/'),
                         );
                         final responseGroup2 = await http.get(
-                          Uri.parse('http://192.168.38.240:5000/group2_rec/'),
+                          Uri.parse('http://192.168.137.1:5000/group2_rec/'),
                         );
 
                         if (responsePot1.statusCode == 200) {

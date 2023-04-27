@@ -1,4 +1,4 @@
-import 'package:bitcamp/data/data.dart';
+import 'package:bitcamp/data/user.dart';
 import 'package:bitcamp/pages/main_app_pages/potential_investment_page.dart';
 import 'package:bitcamp/pages/main_app_pages/root_app.dart';
 import 'package:flutter/cupertino.dart';

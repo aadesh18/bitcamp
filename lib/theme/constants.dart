@@ -1,5 +1,7 @@
+import 'package:bitcamp/data/pot.dart';
 import 'package:bitcamp/data/property.dart';
-import 'package:bitcamp/data/data.dart';
+import 'package:bitcamp/data/recProperty.dart';
+import 'package:bitcamp/data/user.dart';
 import 'package:flutter/material.dart';
 
 //const Color backgroundColor = Color(0xFFDAF5FF);

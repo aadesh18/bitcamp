@@ -1,4 +1,5 @@
 import 'package:bitcamp/data/property.dart';
+import 'package:bitcamp/data/recProperty.dart';
 import 'package:bitcamp/pages/main_app_pages/components/information_card.dart';
 import 'package:bitcamp/pages/main_app_pages/potential_investment_page.dart';
 import 'package:bitcamp/theme/constants.dart';
@@ -86,7 +87,7 @@ class CardPage extends StatelessWidget {
                     false,
                     field: "Address: ",
                     data: propertyList[0].location.substring(
-                        0, propertyList[0].location.indexOf("Washington") - 2),
+                        0, propertyList[0].location.indexOf("Washington") - 5),
                   ),
                   RowInformation(false,
                       field: "State: ", data: "Washington D.C."),
