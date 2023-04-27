@@ -1,3 +1,9 @@
+/*
+Property Class is the data type for each property on the app. It has various 
+necessary fields essential for a property, such as the price, location, size,
+etc. 
+*/
+
 class Property {
   final String id;
   final String img;
@@ -15,21 +21,4 @@ class Property {
       required this.bath,
       required this.sqft,
       required this.location});
-}
-
-class RecProperty extends Property {
-  final String breakEven;
-  final String perInc;
-  final String rent;
-  RecProperty(
-      {required this.breakEven,
-      required this.perInc,
-      required this.rent,
-      required super.id,
-      required super.img,
-      required super.price,
-      required super.bed,
-      required super.bath,
-      required super.sqft,
-      required super.location});
 }
