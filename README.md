@@ -18,4 +18,4 @@ https://devpost.com/software/shared-spaces
 
 The project demo can be viewed here :-
 
-[![YouTube Demo Video](http://img.youtube.com/vi/sNAuJN4xJVU/0.jpg)](http://www.youtube.com/watch?v=sNAuJN4xJVU "Bitcamp 2023 - Shared Spaces")
+[![YouTube Demo Video](https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/445/735/datas/medium.jpg)](http://www.youtube.com/watch?v=sNAuJN4xJVU "Bitcamp 2023 - Shared Spaces")
