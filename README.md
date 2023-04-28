@@ -13,6 +13,9 @@ For the mobile application, we have used Flutter. The files for flutter can be f
 For the backend processing and analysis, we have used Python. The files for Python can be found in the backend folder. 
 
 ## Demo
+The project DevPost link  - 
+https://devpost.com/software/shared-spaces
+
 The project demo can be viewed here :-
 
 [![YouTube Demo Video](http://img.youtube.com/vi/sNAuJN4xJVU/0.jpg)](http://www.youtube.com/watch?v=sNAuJN4xJVU "Bitcamp 2023 - Shared Spaces")
